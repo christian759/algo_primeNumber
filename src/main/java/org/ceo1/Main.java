@@ -10,7 +10,7 @@ public class Main {
     public static void main(String[] args) {
         primeList.add(2);
         Integer startVar = 2;
-        Integer enderVar = 100000;
+        Integer enderVar = 10000;
          looper(startVar, enderVar);
     }
 
